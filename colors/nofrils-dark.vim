@@ -24,13 +24,13 @@ hi Normal term=NONE cterm=NONE ctermfg=14 ctermbg=235 gui=NONE guifg=#FFFFFF gui
 
 " Faded
 hi ColorColumn term=NONE cterm=NONE ctermfg=NONE ctermbg=236 gui=NONE guifg=NONE guibg=#303030
-hi Comment term=NONE cterm=NONE ctermfg=241 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
-hi FoldColumn term=NONE cterm=NONE ctermfg=241 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
-hi Folded term=NONE cterm=NONE ctermfg=241 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
-hi LineNr term=NONE cterm=NONE ctermfg=243 ctermbg=NONE gui=NONE guifg=#555555 guibg=#262626
-hi NonText term=NONE cterm=NONE ctermfg=241 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
-hi SignColumn term=NONE cterm=NONE ctermfg=241 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
-hi SpecialKey term=NONE cterm=NONE ctermfg=241 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
+hi Comment term=NONE cterm=NONE ctermfg=244 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
+hi FoldColumn term=NONE cterm=NONE ctermfg=243 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
+hi Folded term=NONE cterm=NONE ctermfg=243 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
+hi LineNr term=NONE cterm=NONE ctermfg=245 ctermbg=NONE gui=NONE guifg=#555555 guibg=#262626
+hi NonText term=NONE cterm=NONE ctermfg=244 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
+hi SignColumn term=NONE cterm=NONE ctermfg=243 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
+hi SpecialKey term=NONE cterm=NONE ctermfg=243 ctermbg=NONE gui=NONE guifg=#585858 guibg=NONE
 hi StatusLineNC term=NONE cterm=NONE ctermfg=white ctermbg=240 gui=NONE guifg=#FFFFFF guibg=#585858
 hi VertSplit term=NONE cterm=NONE ctermfg=black ctermbg=240 gui=NONE guifg=#000000 guibg=#585858
 
